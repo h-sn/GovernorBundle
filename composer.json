@@ -1,5 +1,5 @@
 {
-  "name": "smartgecko/governor-bundle",
+  "name": "h-sn/governor-bundle",
   "description": "Symfony bundle for the Governor Framework",
   "minimum-stability": "dev",
   "prefer-stable": true,
@@ -16,7 +16,7 @@
   },
   "require": {
     "php": "5.5.*",
-    "smartgecko/governor-framework": "dev-master",
+    "h-sn/governor-framework": "dev-master",
     "symfony/proxy-manager-bridge":">=2.4",
     "ocramius/proxy-manager": "1.0.x"
   },
